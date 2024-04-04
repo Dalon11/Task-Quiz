@@ -1,0 +1,20 @@
+{
+    "name": "Quiz.Levels",
+    "rootNamespace": "Quiz.Levels",
+    "references": [
+        "GUID:48075b3a5a508f94cbd1d10bbe1eaa74",
+        "GUID:8be2238d1ebb0be42bd38e4de2da4ab4",
+        "GUID:17c20762bf50bb94e8af5115e539bf31",
+        "GUID:06ae6a41fa3321e449524693edd50559",
+        "GUID:c727364ad58ad964183846ab032b5504"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

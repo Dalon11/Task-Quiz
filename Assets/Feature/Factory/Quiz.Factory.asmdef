@@ -1,0 +1,17 @@
+{
+    "name": "Quiz.Factory",
+    "rootNamespace": "Quiz.Factory",
+    "references": [
+        "GUID:17c20762bf50bb94e8af5115e539bf31",
+        "GUID:48075b3a5a508f94cbd1d10bbe1eaa74"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

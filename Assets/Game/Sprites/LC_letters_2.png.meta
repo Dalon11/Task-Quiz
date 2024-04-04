@@ -4,37 +4,37 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -6342808464625005154
-    second: LC_letters_2_R
+    second: LC_letters_2-idR
   - first:
       213: 8083504644574312765
-    second: LC_letters_2_S
+    second: LC_letters_2-idS
   - first:
       213: 3270655726746431581
-    second: LC_letters_2_U
+    second: LC_letters_2-idU
   - first:
       213: -2983290644488427326
-    second: LC_letters_2_V
+    second: LC_letters_2-idV
   - first:
       213: 5433449995169814141
-    second: LC_letters_2_O
+    second: LC_letters_2-idO
   - first:
       213: -4447791616812998045
-    second: LC_letters_2_Q
+    second: LC_letters_2-idQ
   - first:
       213: -9165466868132007793
-    second: LC_letters_2_W
+    second: LC_letters_2-idW
   - first:
       213: -4461999128152558772
-    second: LC_letters_2_T
+    second: LC_letters_2-idT
   - first:
       213: 7112752472869403061
-    second: LC_letters_2_N
+    second: LC_letters_2-idN
   - first:
       213: -4252152113809563852
-    second: LC_letters_2_P
+    second: LC_letters_2-idP
   - first:
       213: 4461586319009975920
-    second: LC_letters_2_X
+    second: LC_letters_2-idX
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -124,7 +124,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LC_letters_2_R
+      name: LC_letters_2-idR
       rect:
         serializedVersion: 2
         x: 3
@@ -132,7 +132,7 @@ TextureImporter:
         width: 223
         height: 311
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -145,7 +145,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_S
+      name: LC_letters_2-idS
       rect:
         serializedVersion: 2
         x: 230
@@ -153,7 +153,7 @@ TextureImporter:
         width: 211
         height: 316
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -166,7 +166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_U
+      name: LC_letters_2-idU
       rect:
         serializedVersion: 2
         x: 446
@@ -174,7 +174,7 @@ TextureImporter:
         width: 245
         height: 312
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,7 +187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_V
+      name: LC_letters_2-idV
       rect:
         serializedVersion: 2
         x: 695
@@ -195,7 +195,7 @@ TextureImporter:
         width: 277
         height: 312
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,7 +208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_O
+      name: LC_letters_2-idO
       rect:
         serializedVersion: 2
         x: 2
@@ -216,7 +216,7 @@ TextureImporter:
         width: 311
         height: 312
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_Q
+      name: LC_letters_2-idQ
       rect:
         serializedVersion: 2
         x: 318
@@ -237,7 +237,7 @@ TextureImporter:
         width: 311
         height: 312
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -250,7 +250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_W
+      name: LC_letters_2-idW
       rect:
         serializedVersion: 2
         x: 635
@@ -258,7 +258,7 @@ TextureImporter:
         width: 386
         height: 311
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -271,7 +271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_T
+      name: LC_letters_2-idT
       rect:
         serializedVersion: 2
         x: 2
@@ -279,7 +279,7 @@ TextureImporter:
         width: 202
         height: 312
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -292,7 +292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_N
+      name: LC_letters_2-idN
       rect:
         serializedVersion: 2
         x: 208
@@ -300,7 +300,7 @@ TextureImporter:
         width: 272
         height: 311
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -313,7 +313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_P
+      name: LC_letters_2-idP
       rect:
         serializedVersion: 2
         x: 484
@@ -321,7 +321,7 @@ TextureImporter:
         width: 219
         height: 312
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -334,7 +334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LC_letters_2_X
+      name: LC_letters_2-idX
       rect:
         serializedVersion: 2
         x: 707
@@ -342,7 +342,7 @@ TextureImporter:
         width: 252
         height: 311
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

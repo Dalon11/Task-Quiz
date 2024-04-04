@@ -1,0 +1,16 @@
+{
+    "name": "Quiz.Effects",
+    "rootNamespace": "Quiz.Effects",
+    "references": [
+        "GUID:b5b057b481bad62498087c8345fb167c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

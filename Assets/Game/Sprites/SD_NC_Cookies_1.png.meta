@@ -4,28 +4,28 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 1422184923334757970
-    second: SD_NC_Cookies_1_5
+    second: SD_NC_Cookies_1-id5
   - first:
       213: 1808195818850983521
-    second: SD_NC_Cookies_1_5
+    second: SD_NC_Cookies_1-id5
   - first:
       213: -7900951133411543555
-    second: SD_NC_Cookies_1_5
+    second: SD_NC_Cookies_1-id5
   - first:
       213: -7398325283844340781
-    second: SD_NC_Cookies_1_5
+    second: SD_NC_Cookies_1-id5
   - first:
       213: 2267071060405275165
-    second: SD_NC_Cookies_1_4
+    second: SD_NC_Cookies_1-id4
   - first:
       213: -7015292045520539579
-    second: SD_NC_Cookies_1_8
+    second: SD_NC_Cookies_1-id8-rotate90
   - first:
       213: -675344402919758444
-    second: SD_NC_Cookies_1_8
+    second: SD_NC_Cookies_1-id8-rotate90
   - first:
       213: 3547489320769246608
-    second: SD_NC_Cookies_1_8
+    second: SD_NC_Cookies_1-id8-rotate90
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SD_NC_Cookies_1_1
+      name: SD_NC_Cookies_1-id1
       rect:
         serializedVersion: 2
         x: 5
@@ -136,7 +136,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SD_NC_Cookies_1_2
+      name: SD_NC_Cookies_1-id2
       rect:
         serializedVersion: 2
         x: 178
@@ -157,7 +157,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SD_NC_Cookies_1_3
+      name: SD_NC_Cookies_1-id3
       rect:
         serializedVersion: 2
         x: 460
@@ -178,7 +178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SD_NC_Cookies_1_5
+      name: SD_NC_Cookies_1-id5
       rect:
         serializedVersion: 2
         x: 746
@@ -199,7 +199,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SD_NC_Cookies_1_4
+      name: SD_NC_Cookies_1-id4
       rect:
         serializedVersion: 2
         x: 8
@@ -220,7 +220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SD_NC_Cookies_1_6
+      name: SD_NC_Cookies_1-id6
       rect:
         serializedVersion: 2
         x: 313
@@ -241,7 +241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SD_NC_Cookies_1_7
+      name: SD_NC_Cookies_1-id7-rotate90
       rect:
         serializedVersion: 2
         x: 623
@@ -262,7 +262,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SD_NC_Cookies_1_8
+      name: SD_NC_Cookies_1-id8-rotate90
       rect:
         serializedVersion: 2
         x: 623

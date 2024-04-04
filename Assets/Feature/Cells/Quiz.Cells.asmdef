@@ -1,0 +1,18 @@
+{
+    "name": "Quiz.Cells",
+    "rootNamespace": "Quiz.Cells",
+    "references": [
+        "GUID:022e54b510cfb8f48ab683d408329a94",
+        "GUID:48075b3a5a508f94cbd1d10bbe1eaa74",
+        "GUID:8be2238d1ebb0be42bd38e4de2da4ab4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

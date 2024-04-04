@@ -1,0 +1,16 @@
+{
+    "name": "Quiz.Loading",
+    "rootNamespace": "Quiz.Loading",
+    "references": [
+        "GUID:8be2238d1ebb0be42bd38e4de2da4ab4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
